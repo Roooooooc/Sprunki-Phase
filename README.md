@@ -30,7 +30,7 @@ Follow these steps to install and enjoy *Sprunki Phase*:
 2. Click on **Play Now** to start mixing sounds without downloads.
 
 ### Offline Download (Optional)
-- For a local version, download the mod from [Incredibox Sprunki Download](https://sprunki.org).
+- For a local version, download the mod from [Incredibox Sprunki ](https://incrediboxsprunki.pro).
 - Extract the downloaded files.
 - Open the executable file or `.html` if using a browser-supported build.
 
@@ -61,7 +61,7 @@ Playing Sprunki Phase is simple but immersive:
 **A:** Sprunki builds upon Incredibox's core mechanics with additional phases, original characters, and more interactive elements like the **Phase 3 Horror Mod**.
 
 **Q:** Where can I find Sprunki mods?  
-**A:** Visit [sprunki.org](https://sprunki.org) to explore and download various Sprunki mods, including **Sprunki Incredibox Phase 4**.
+**A:** Visit [Sprunki Game](https://sprunkigame.pro) to explore and download various Sprunki mods, including **Sprunki Incredibox Phase 4**.
 
 **Q:** Is Sprunki playable on Scratch?  
 **A:** Yes! Many users have shared their creations on Scratch, where the game thrives in an open community environment.
@@ -78,4 +78,4 @@ This project is a fan-made mod of Incredibox and is not officially affiliated wi
 
 ---
 
-Start your musical journey with Sprunki now at [sprunki-phase.online](https://sprunki-phase.online)! Mix, share, and explore the creative possibilities in the Sprunki universe.
+Start your musical journey with Sprunki now at [sprunki-phase.online](https://sprunki-phase.online), [Abgerny](https://abgerny.buzz) and [Sprunked](https://sprunked.pro)! Mix, share, and explore the creative possibilities in the Sprunki universe.
