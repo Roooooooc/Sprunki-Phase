@@ -2,8 +2,9 @@
 
 Sprunki Phase is a fan-made extension of the popular *Incredibox*, bringing fresh music-mixing fun with new characters, sound loops, and visuals. With the same intuitive gameplay but an added twist, it offers a unique experience for both fans of the original game and new players alike.
 
----
 ## [🕹 Play sprunki Phase Now](https://sprunki-phase.online)
+
+---
 
 ## Table of Contents
 1. [Overview](#overview)  
