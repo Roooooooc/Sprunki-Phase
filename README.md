@@ -3,6 +3,7 @@
 Sprunki Phase is a fan-made extension of the popular *Incredibox*, bringing fresh music-mixing fun with new characters, sound loops, and visuals. With the same intuitive gameplay but an added twist, it offers a unique experience for both fans of the original game and new players alike.
 
 ---
+## [🕹 Play sprunki Phase Now](https://sprunki-phase.online)
 
 ## Table of Contents
 1. [Overview](#overview)  
@@ -26,7 +27,7 @@ You can explore various *Sprunki* mods, including **Sprunki Incredibox Horror Mo
 Follow these steps to install and enjoy *Sprunki Phase*:
 
 ### Online Play
-1. Visit the [sprunki-phase.online](https://sprunki-phase.online) website.
+1. Visit the [sprunki phase](https://sprunki-phase.online) website.
 2. Click on **Play Now** to start mixing sounds without downloads.
 
 ### Offline Download (Optional)
